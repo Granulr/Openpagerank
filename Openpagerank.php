@@ -11,7 +11,7 @@
  *  @copyright   Copyright (c) 2020 - present Rick Simnett
  *  @license     http://mit-license.org
  *  @version     1.0
- *  @link        https://github.com/media-giant-design/mozapiv2/
+ *  @link        https://github.com/Granulr/Openpagerank/
  *  @website     https://www.granulr.uk/
  *  ================================================================================
  *  LICENSE: Permission is hereby granted, free of charge, to any person obtaining
