@@ -44,6 +44,6 @@ More detailed examples can be found here <a href="https://www.domcop.com/openpag
 
 ## License
 
-(c) 2020 - Present, Granulr Ltd info@granukr.uk   
+(c) 2020 - Present, Granulr Ltd info@granulr.uk   
 License: MIT
 URL: https://granulr.uk
