@@ -8,11 +8,12 @@
  *  @package     Openpagerank-PHP
  *  @author      James Simpson <info@granulr.uk>
  *  @company     Granulr Ltd
- *  @copyright   Copyright (c) 2020 - present Rick Simnett
+ *  @copyright   Copyright (c) 2020 - present Granulr Ltd
  *  @license     http://mit-license.org
  *  @version     1.0
- *  @link        https://github.com/media-giant-design/mozapiv2/
+ *  @link        https://github.com/Granulr/Openpagerank/
  *  @website     https://www.granulr.uk/
+ 
  *  ================================================================================
  *  LICENSE: Permission is hereby granted, free of charge, to any person obtaining
  *  a copy of this software and associated documentation files (the "Software'),
